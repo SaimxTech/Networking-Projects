@@ -14,3 +14,13 @@ To configure Virtual Local Area Networks (VLANs) and establish communication bet
 
 ## Result
 Devices within the same VLAN communicated successfully, demonstrating proper network segmentation.
+## Screenshots
+
+### Topology
+![Topology](topology.png)
+
+### VLAN Configuration
+![VLAN Configuration](vlan-config.png)
+
+### Ping Test
+![Ping Test](ping-test.png)
